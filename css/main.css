@@ -4,4 +4,8 @@ body {
   display: flex;
   justify-content: center;
   font-family: "Courier New", Courier, monospace;
+}
+
+canvas {
+  margin-top: 25px;
 }/*# sourceMappingURL=main.css.map */
