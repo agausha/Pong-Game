@@ -15,4 +15,5 @@ canvas {
   background-color: $game-over-color;
   margin-top: -4px;
   z-index: 10;
+  display: flex;
 }

@@ -21,4 +21,5 @@ canvas {
   background-color: hsl(0deg, 0%, 22%);
   margin-top: -4px;
   z-index: 10;
+  display: flex;
 }/*# sourceMappingURL=main.css.map */
