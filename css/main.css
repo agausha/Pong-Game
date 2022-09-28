@@ -17,6 +17,10 @@ button {
   font-size: 20px;
   font-family: "Courier New", Courier, monospace;
 }
+button:hover {
+  filter: brightness(80%);
+}
+
 canvas {
   margin-top: 25px;
   z-index: 8;
