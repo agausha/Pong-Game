@@ -19,5 +19,7 @@ button {
     transform: scale(0.95);
   }
 
-  &:focus {}
+  &:focus {
+    outline: none;
+  }
 }
