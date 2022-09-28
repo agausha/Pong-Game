@@ -12,6 +12,7 @@ button {
   background: hsl(0deg, 0%, 76%);
   border: none;
   height: 50px;
+  width: 500px;
 }
 
 canvas {
