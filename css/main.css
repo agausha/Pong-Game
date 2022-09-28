@@ -8,4 +8,5 @@ body {
 
 canvas {
   margin-top: 25px;
+  z-index: 10;
 }/*# sourceMappingURL=main.css.map */
