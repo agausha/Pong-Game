@@ -20,4 +20,5 @@ canvas {
   height: 700px;
   background-color: hsl(0deg, 0%, 22%);
   margin-top: -4px;
+  z-index: 10;
 }/*# sourceMappingURL=main.css.map */
