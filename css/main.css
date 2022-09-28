@@ -20,7 +20,6 @@ button {
 button:hover {
   filter: brightness(80%);
 }
-
 canvas {
   margin-top: 25px;
   z-index: 8;
