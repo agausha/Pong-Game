@@ -20,3 +20,15 @@ canvas {
   align-items: center;
   color: $text-color;
 }
+
+/////////////////////////////////////////
+// MEDIA QUERY: MONITOR & LARGER
+@media screen and (max-width: 600px) {
+  canvas {
+    margin-top: 100px;
+  }
+
+  .game-over-container {
+    margin-top: -19px;
+  }
+}
