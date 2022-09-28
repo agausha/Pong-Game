@@ -1,0 +1,9 @@
+# Pong Game
+
+How it work
+
+- The computer dosen't move until you use the cursor to start the bottom paddle
+
+- As soon as you make contact with the ball, you will be able to play with the computer basic AI
+
+- The winning score by default is 10 point
