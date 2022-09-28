@@ -6,6 +6,10 @@ body {
   font-family: "Courier New", Courier, monospace;
 }
 
+button {
+  cursor: pointer;
+}
+
 canvas {
   margin-top: 25px;
   z-index: 8;
