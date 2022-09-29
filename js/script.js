@@ -91,4 +91,9 @@ function createCanvas() {
 }
 
 // Reset Ball to Center
-function ballReset() {}
+function ballReset() {
+  ballX = width / 2;
+  ballY = height / 2;
+  speedY = -3;
+  paddleContact = false;
+}
