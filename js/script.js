@@ -25,3 +25,4 @@ const ballRadius = 5;
 
 // Speed
 let speedY;
+let speedX;
