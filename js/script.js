@@ -159,3 +159,6 @@ function ballBoundaries() {
     }
   }
 }
+
+// Computer Movement
+function computerAI() {}
