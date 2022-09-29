@@ -99,4 +99,11 @@ function ballReset() {
 }
 
 // Adjust Ball Movement
-function ballMove() {}
+function ballMove() {
+  // Vertical Speed
+  ballY += -speedY;
+  // Horizontal Speed
+  if (playerMoved && paddleContact) {
+    ballX += speedX;
+  }
+}
