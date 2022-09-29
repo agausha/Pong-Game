@@ -16,3 +16,4 @@ const paddleDiff = 25;
 let paddleBottomX = 225;
 let paddleTopX = 225;
 let playerMoved = false;
+let paddleContact = false;
