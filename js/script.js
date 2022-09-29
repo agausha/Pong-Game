@@ -21,3 +21,4 @@ let paddleContact = false;
 // Ball
 let ballX = 250;
 let ballY = 350;
+const ballRadius = 5;
