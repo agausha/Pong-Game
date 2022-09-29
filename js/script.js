@@ -87,4 +87,5 @@ function createCanvas() {
   canvas.width = width;
   canvas.height = height;
   body.appendChild(canvas);
+  renderCanvas();
 }
