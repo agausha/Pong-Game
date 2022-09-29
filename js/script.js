@@ -198,3 +198,6 @@ function gameOver() {
     showGameOverEl(winner);
   }
 }
+
+// Called Every Frame
+function animate() {}
