@@ -14,3 +14,4 @@ const paddleHeight = 10;
 const paddleWidth = 50;
 const paddleDiff = 25;
 let paddleBottomX = 225;
+let paddleTopX = 225;
