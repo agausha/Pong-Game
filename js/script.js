@@ -20,3 +20,4 @@ let paddleContact = false;
 
 // Ball
 let ballX = 250;
+let ballY = 350;
