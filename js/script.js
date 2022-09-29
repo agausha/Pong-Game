@@ -12,3 +12,4 @@ const gameOverEl = document.createElement('div');
 // Paddle
 const paddleHeight = 10;
 const paddleWidth = 50;
+const paddleDiff = 25;
