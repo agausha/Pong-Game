@@ -39,3 +39,8 @@ if (isMobile.matches) {
   speedX = speedY;
   computerSpeed = 3;
 }
+
+// Score
+let playerScore = 0;
+let computerScore = 0;
+const winningScore = 10;
