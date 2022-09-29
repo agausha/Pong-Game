@@ -107,3 +107,6 @@ function ballMove() {
     ballX += speedX;
   }
 }
+
+// Determine What Ball Bounces Off, Score Points, Reset Ball
+function ballBoundaries() {}
