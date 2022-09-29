@@ -188,3 +188,6 @@ playAgainBtn.textContent = 'Play Again';
 gameOverEl.append(title, playAgainBtn);
 body.appendChild(gameOverEl);
 }
+
+// Check If One Player Has Winning Score, If They Do, End Game
+function gameOver() {}
