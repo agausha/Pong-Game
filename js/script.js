@@ -170,3 +170,5 @@ function computerAI() {
     }
   }
 }
+
+function showGameOverEl(winner) {}
