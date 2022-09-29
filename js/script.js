@@ -210,3 +210,6 @@ function animate() {
     window.requestAnimationFrame(animate);
   }
 }
+
+// Start Game, Reset Everything
+function startGame() {}
