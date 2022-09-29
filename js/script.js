@@ -27,3 +27,4 @@ const ballRadius = 5;
 let speedY;
 let speedX;
 let trajectoryX;
+let computerSpeed;
