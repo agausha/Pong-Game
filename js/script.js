@@ -238,3 +238,6 @@ function startGame() {
     canvas.style.cursor = 'none';
   });
 }
+
+// On Load
+startGame();
