@@ -97,3 +97,6 @@ function ballReset() {
   speedY = -3;
   paddleContact = false;
 }
+
+// Adjust Ball Movement
+function ballMove() {}
