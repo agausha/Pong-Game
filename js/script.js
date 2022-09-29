@@ -200,4 +200,13 @@ function gameOver() {
 }
 
 // Called Every Frame
-function animate() {}
+function animate() {
+  renderCanvas();
+  ballMove();
+  ballBoundaries();
+  computerAI();
+  gameOver();
+  if (!isGameOver) {
+    window.requestAnimationFrame(animate);
+  }
+}
