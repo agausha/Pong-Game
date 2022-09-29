@@ -190,4 +190,11 @@ body.appendChild(gameOverEl);
 }
 
 // Check If One Player Has Winning Score, If They Do, End Game
-function gameOver() {}
+function gameOver() {
+  if (playerScore === winningScore || computerScore === winningScore) {
+    isGameOver = true;
+    // Set Winner
+    let winner = playerScore === winningScore ? 'Player 1' : 'Computer';
+    showGameOverEl(winner);
+  }
+}
