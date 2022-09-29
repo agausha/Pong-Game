@@ -89,3 +89,6 @@ function createCanvas() {
   body.appendChild(canvas);
   renderCanvas();
 }
+
+// Reset Ball to Center
+function ballReset() {}
